@@ -1,6 +1,11 @@
-# planned tasks for today
-date: 04/08/2018
+# Welcome to jorden he's blog home page
 -------------------------------------
+## introduction
+I'm a current undergraduate student at Australian National University.
+My intereted area of study is machine learning and computer vision.
+
+-------------------------------------
+let's write some markdown syntax
 ## some examples of syntax
 Paragraphs are separated by a blank line.
 
@@ -41,3 +46,4 @@ To start an ordered list, write this:
 
 A baidu link [baidu](www.baidu.com).
 
+Last modified: Thu, 14 Feb 2019 17:16:05 +1100
