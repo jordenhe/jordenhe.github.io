@@ -4,6 +4,12 @@
 I'm a current undergraduate student at Australian National University.
 My intereted area of study is machine learning and computer vision.
 
+## I'm writing some introductory blogs about Linux, Vim, Latex, etc.
+[Linux](https://becomelinuxer.blogspot.com)
+[Vim](https://studyvim.blogspot.com)
+[Latex](https://latexer.blogspot.com)
+
+
 -------------------------------------
 
 let's write some markdown syntax
@@ -49,4 +55,5 @@ To start an ordered list, write this:
 A baidu link [baidu](www.baidu.com).
 
 
-Last modified: Thu, 14 Feb 2019 17:43:27 +1100
+
+Last modified: Fri, 22 Feb 2019 14:11:08 +1100
