@@ -1,4 +1,4 @@
-# Welcome to jorden he's blog home page
+# Welcome to Hongjian's home page
 
 ## introduction
 I'm a current undergraduate student at Australian National University.
@@ -6,7 +6,9 @@ My intereted area of study is machine learning and computer vision.
 
 ## I'm writing some introductory blogs about Linux, Vim, Latex, etc.
 [Linux](https://becomelinuxer.blogspot.com)
+
 [Vim](https://studyvim.blogspot.com)
+
 [Latex](https://latexer.blogspot.com)
 
 
@@ -56,4 +58,5 @@ A baidu link [baidu](www.baidu.com).
 
 
 
-Last modified: Fri, 22 Feb 2019 14:11:08 +1100
+
+Last modified: Fri, 22 Feb 2019 20:28:54 +1100
