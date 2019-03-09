@@ -1,11 +1,11 @@
 # Tasks to be done
 
-* mathematical foundations prepare
-* machine learning textbook with lectures
-* micro-controller textbook
-* semisupervised paper
+* mathematical foundations reading
+* make up all the drivers(onedrive dropbox baidu)
+* engn4200 opensfm tasks
+* engn4221 github and raspbian prepare
 
 
 
 
-Last modified: Sat, 16 Feb 2019 23:06:25 +1100
+Last modified: Sat, 09 Mar 2019 13:45:18 +1100
