@@ -7,6 +7,7 @@
 * R and python tutorials
 * wed. 10am ENGN8534 drop-in, B154, building 115, ring 57779
 * MiniZinc installation and simple tests
+* MATH6112 lecture
 
 
 # Task schedule
@@ -31,4 +32,4 @@
 * refer to research plan
 
 
-Last modified: Wed, 24 Jul 2019 15:56:04 +1000
+Last modified: Wed, 24 Jul 2019 15:57:08 +1000
