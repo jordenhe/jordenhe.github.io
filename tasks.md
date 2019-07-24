@@ -6,6 +6,7 @@
 * engn4221 github and raspbian prepare
 * R and python tutorials
 * wed. 10am ENGN8534 drop-in, B154, building 115, ring 57779
+* MiniZinc installation and simple tests
 
 
 # Task schedule
@@ -30,4 +31,4 @@
 * refer to research plan
 
 
-Last modified: Wed, 24 Jul 2019 10:40:22 +1000
+Last modified: Wed, 24 Jul 2019 15:56:04 +1000
