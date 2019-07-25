@@ -12,24 +12,40 @@
 
 # Task schedule
 
+## MATH2301
+* textbook or lecture slide
+* workshop attendance
+* assignment
+
 ## MATH6100
-* lecture note and lecture recording
+* lecture note and lecture recording (missing Thursday 10AM)
 * R programming tutorial
 * some papers on algorithms
 
 ## MATH3512
-* read course module and lecture recording
+* read course module and lecture recording (Wednesday 3pm & Thursday 1pm)
 * Python tutorial
+
+## MATH6406
+* textbook
+* lecture
 
 ## ENGN8534
 * textbook
 * lecture recording/slide
 
-## MATH6406
+## COMP6670
+* lectures
+* assignment
+* lab
 * textbook
+
+## COMP8691
+* fornight assignment
+* lectures
 
 ## research
 * refer to research plan
 
 
-Last modified: Wed, 24 Jul 2019 15:57:08 +1000
+Last modified: Thu, 25 Jul 2019 19:24:29 +1000
